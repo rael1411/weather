@@ -55,4 +55,4 @@ submit.addEventListener("click", function (e) {
   e.preventDefault();
   showData(myKey, choice.value, defaultUnits);
 });
-showData(myKey, "Macomer", defaultUnits);
+showData(myKey, "London", defaultUnits);
